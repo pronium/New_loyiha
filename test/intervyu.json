@@ -1,0 +1,235 @@
+{
+	"Interviews": [
+		{
+			"ID": 1,
+			"CompanyID": 1,
+			"VacancyID": 101,
+			"UserID": 1,
+			"InterviewType": true,
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Platform": "Zoom",
+			"Date": "2024-06-15",
+			"Time": "10:00 AM",
+			"Status": 1
+		},
+		{
+			"ID": 2,
+			"CompanyID": 2,
+			"VacancyID": 102,
+			"UserID": 2,
+			"InterviewType": false,
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Platform": "",
+			"Date": "2024-06-20",
+			"Time": "1:00 PM",
+			"Status": 2
+		},
+		{
+			"ID": 3,
+			"CompanyID": 3,
+			"VacancyID": 103,
+			"UserID": 3,
+			"InterviewType": true,
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Platform": "Microsoft Teams",
+			"Date": "2024-06-25",
+			"Time": "3:00 PM",
+			"Status": 1
+		},
+		{
+			"ID": 4,
+			"CompanyID": 4,
+			"VacancyID": 104,
+			"UserID": 4,
+			"InterviewType": true,
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Platform": "Google Meet",
+			"Date": "2024-07-01",
+			"Time": "9:00 AM",
+			"Status": 1
+		},
+		{
+			"ID": 5,
+			"CompanyID": 5,
+			"VacancyID": 105,
+			"UserID": 5,
+			"InterviewType": false,
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Platform": "",
+			"Date": "2024-07-05",
+			"Time": "11:00 AM",
+			"Status": 2
+		},
+		{
+			"ID": 6,
+			"CompanyID": 6,
+			"VacancyID": 106,
+			"UserID": 6,
+			"InterviewType": true,
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Platform": "Skype",
+			"Date": "2024-07-10",
+			"Time": "2:00 PM",
+			"Status": 1
+		},
+		{
+			"ID": 7,
+			"CompanyID": 7,
+			"VacancyID": 107,
+			"UserID": 7,
+			"InterviewType": false,
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Platform": "",
+			"Date": "2024-07-15",
+			"Time": "4:00 PM",
+			"Status": 2
+		},
+		{
+			"ID": 8,
+			"CompanyID": 8,
+			"VacancyID": 108,
+			"UserID": 8,
+			"InterviewType": true,
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Platform": "Facetime",
+			"Date": "2024-07-20",
+			"Time": "10:00 AM",
+			"Status": 1
+		},
+		{
+			"ID": 9,
+			"CompanyID": 9,
+			"VacancyID": 109,
+			"UserID": 9,
+			"InterviewType": false,
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Platform": "",
+			"Date": "2024-07-25",
+			"Time": "1:00 PM",
+			"Status": 2
+		},
+		{
+			"ID": 10,
+			"CompanyID": 10,
+			"VacancyID": 10,
+			"UserID": 10,
+			"InterviewType": true,
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Platform": "Webex",
+			"Date": "2024-07-30",
+			"Time": "3:00 PM",
+			"Status": 3
+		},
+		{
+			"ID": 11,
+			"CompanyID": 2,
+			"VacancyID": 5,
+			"UserID": 5,
+			"InterviewType": true,
+			"Address": {
+				"Street": "",
+				"Suite": "",
+				"City": "",
+				"Zipcode": "",
+				"Geo": {
+					"Lat": "",
+					"Lng": ""
+				}
+			},
+			"Platform": "qwerty.com",
+			"Date": "12.34.3000",
+			"Time": "12:23",
+			"Status": 2
+		}
+	]
+}

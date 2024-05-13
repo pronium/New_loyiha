@@ -1,0 +1,184 @@
+{
+	"Vacancies": [
+		{
+			"VacancyID": 1,
+			"CompanyID": 5,
+			"Title": "Frontend Developer",
+			"Description": "Develop and maintain the frontend part of our web applications.",
+			"Requirement": [
+				"3 years of React",
+				"Experience with Redux",
+				"Familiarity with REST APIs"
+			],
+			"SalaryRange": "$50,000 - $70,000",
+			"WorkType": false,
+			"Offer": [
+				"Remote work days",
+				"Gym membership"
+			],
+			"Status": true
+		},
+		{
+			"VacancyID": 2,
+			"CompanyID": 7,
+			"Title": "Data Analyst",
+			"Description": "Analyze datasets to derive business insights.",
+			"Requirement": [
+				"Proficiency in SQL",
+				"Experience with Python",
+				"Understanding of data visualization tools"
+			],
+			"SalaryRange": "$60,000 - $80,000",
+			"WorkType": true,
+			"Offer": [
+				"Health insurance",
+				"Stock options"
+			],
+			"Status": false
+		},
+		{
+			"VacancyID": 3,
+			"CompanyID": 9,
+			"Title": "Cloud Engineer",
+			"Description": "Implement and maintain cloud infrastructure solutions.",
+			"Requirement": [
+				"AWS or Azure expertise",
+				"Experience with Terraform",
+				"Knowledge of containerization"
+			],
+			"SalaryRange": "$80,000 - $100,000",
+			"WorkType": true,
+			"Offer": [
+				"Flexible schedule",
+				"Yearly bonus"
+			],
+			"Status": true
+		},
+		{
+			"VacancyID": 4,
+			"CompanyID": 3,
+			"Title": "Cybersecurity Specialist",
+			"Description": "Protect systems against unauthorized access and cyber threats.",
+			"Requirement": [
+				"Experience with firewalls",
+				"Knowledge of penetration testing",
+				"Certifications like CISSP"
+			],
+			"SalaryRange": "$70,000 - $90,000",
+			"WorkType": false,
+			"Offer": [
+				"Paid certifications",
+				"Conference allowances"
+			],
+			"Status": false
+		},
+		{
+			"VacancyID": 5,
+			"CompanyID": 2,
+			"Title": "Product Manager",
+			"Description": "Lead product development from conception to launch.",
+			"Requirement": [
+				"Strong leadership skills",
+				"Experience in product lifecycle management",
+				"Ability to work cross-functionally"
+			],
+			"SalaryRange": "$90,000 - $110,000",
+			"WorkType": false,
+			"Offer": [
+				"Comprehensive health care",
+				"Equity options"
+			],
+			"Status": true
+		},
+		{
+			"VacancyID": 6,
+			"CompanyID": 4,
+			"Title": "HR Manager",
+			"Description": "Manage HR operations and strategies to foster a positive work environment.",
+			"Requirement": [
+				"5+ years of HR experience",
+				"Strong interpersonal skills",
+				"Knowledge of labor laws"
+			],
+			"SalaryRange": "$65,000 - $85,000",
+			"WorkType": false,
+			"Offer": [
+				"Wellness programs",
+				"Retirement plans"
+			],
+			"Status": true
+		},
+		{
+			"VacancyID": 7,
+			"CompanyID": 1,
+			"Title": "Marketing Director",
+			"Description": "Oversee marketing strategies to enhance brand recognition.",
+			"Requirement": [
+				"Proven marketing campaign experience",
+				"Strong analytical abilities",
+				"Creativity and innovation"
+			],
+			"SalaryRange": "$100,000 - $120,000",
+			"WorkType": false,
+			"Offer": [
+				"Performance bonuses",
+				"Travel opportunities"
+			],
+			"Status": true
+		},
+		{
+			"VacancyID": 8,
+			"CompanyID": 6,
+			"Title": "Operations Manager",
+			"Description": "Optimize organizational processes to improve efficiency.",
+			"Requirement": [
+				"Operational strategy development",
+				"Problem-solving skills",
+				"Experience in logistics management"
+			],
+			"SalaryRange": "$75,000 - $95,000",
+			"WorkType": false,
+			"Offer": [
+				"Profit sharing",
+				"Flexible holidays"
+			],
+			"Status": true
+		},
+		{
+			"VacancyID": 9,
+			"CompanyID": 10,
+			"Title": "Software Architect",
+			"Description": "Design software solutions and guide development teams.",
+			"Requirement": [
+				"Deep understanding of software architecture",
+				"Experience with system scalability",
+				"Mastery of programming languages"
+			],
+			"SalaryRange": "$130,000 - $150,000",
+			"WorkType": true,
+			"Offer": [
+				"Sabbatical leave",
+				"Tech gear allowance"
+			],
+			"Status": true
+		},
+		{
+			"VacancyID": 10,
+			"CompanyID": 8,
+			"Title": "Graphic Designer",
+			"Description": "Create compelling designs for digital and print media.",
+			"Requirement": [
+				"Strong portfolio of design work",
+				"Expertise in Adobe Creative Suite",
+				"Eye for detail"
+			],
+			"SalaryRange": "$50,000 - $70,000",
+			"WorkType": false,
+			"Offer": [
+				"Creative workshops",
+				"Art supply stipend"
+			],
+			"Status": true
+		}
+	]
+}

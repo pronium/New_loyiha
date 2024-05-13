@@ -1,0 +1,650 @@
+{
+	"Companies": [
+		{
+			"ID": 1,
+			"Name": "Tech Innovations",
+			"Industry": "Software",
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Users": [
+				{
+					"Id": 3,
+					"Name": "Bob",
+					"Surname": "Smith",
+					"Age": 35,
+					"Phone": "321-654-9870",
+					"Email": "bob.smith@example.com",
+					"Status": 1,
+					"Experince": 10,
+					"Applications": [
+						[
+							2,
+							3
+						]
+					],
+					"Interviews": null
+				},
+				{
+					"Id": 8,
+					"Name": "Grace",
+					"Surname": "Lee",
+					"Age": 29,
+					"Phone": "456-789-0123",
+					"Email": "grace.lee@example.com",
+					"Status": 1,
+					"Experince": 6,
+					"Applications": [
+						[
+							8,
+							8
+						]
+					],
+					"Interviews": null
+				},
+				{
+					"Id": 9,
+					"Name": "Henry",
+					"Surname": "Davis",
+					"Age": 45,
+					"Phone": "123-456-0987",
+					"Email": "henry.davis@example.com",
+					"Status": 1,
+					"Experince": 20,
+					"Applications": [
+						[
+							9,
+							9
+						]
+					],
+					"Interviews": null
+				}
+			]
+		},
+		{
+			"ID": 2,
+			"Name": "Creative Solutions",
+			"Industry": "Marketing",
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Users": [
+				{
+					"Id": 6,
+					"Name": "Eve",
+					"Surname": "Wilson",
+					"Age": 22,
+					"Phone": "321-789-4560",
+					"Email": "eve.wilson@example.com",
+					"Status": 1,
+					"Experince": 2,
+					"Applications": [
+						[
+							6,
+							6
+						]
+					],
+					"Interviews": null
+				},
+				{
+					"Id": 7,
+					"Name": "Frank",
+					"Surname": "Moore",
+					"Age": 32,
+					"Phone": "789-012-3456",
+					"Email": "frank.moore@example.com",
+					"Status": 1,
+					"Experince": 7,
+					"Applications": [
+						[
+							7,
+							7
+						]
+					],
+					"Interviews": null
+				}
+			]
+		},
+		{
+			"ID": 3,
+			"Name": "Data Driven Inc.",
+			"Industry": "Technology",
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Users": [
+				{
+					"Id": 9,
+					"Name": "Henry",
+					"Surname": "Davis",
+					"Age": 45,
+					"Phone": "123-456-0987",
+					"Email": "henry.davis@example.com",
+					"Status": 1,
+					"Experince": 20,
+					"Applications": [
+						[
+							9,
+							9
+						]
+					],
+					"Interviews": null
+				},
+				{
+					"Id": 10,
+					"Name": "Isabel",
+					"Surname": "Garcia",
+					"Age": 27,
+					"Phone": "654-789-3210",
+					"Email": "isabel.garcia@example.com",
+					"Status": 1,
+					"Experince": 5,
+					"Applications": [
+						[
+							10,
+							10
+						]
+					],
+					"Interviews": null
+				}
+			]
+		},
+		{
+			"ID": 4,
+			"Name": "SecureTech",
+			"Industry": "Cybersecurity",
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Users": [
+				{
+					"Id": 1,
+					"Name": "John",
+					"Surname": "Doe",
+					"Age": 30,
+					"Phone": "123-456-7890",
+					"Email": "john.doe@example.com",
+					"Status": 1,
+					"Experince": 5,
+					"Applications": [
+						[
+							1,
+							1
+						]
+					],
+					"Interviews": null
+				},
+				{
+					"Id": 2,
+					"Name": "Alice",
+					"Surname": "Johnson",
+					"Age": 28,
+					"Phone": "987-654-3210",
+					"Email": "alice.j@example.com",
+					"Status": 1,
+					"Experince": 4,
+					"Applications": [
+						[
+							2,
+							2
+						]
+					],
+					"Interviews": null
+				},
+				{
+					"Id": 3,
+					"Name": "Bob",
+					"Surname": "Smith",
+					"Age": 35,
+					"Phone": "321-654-9870",
+					"Email": "bob.smith@example.com",
+					"Status": 1,
+					"Experince": 10,
+					"Applications": [
+						[
+							2,
+							3
+						]
+					],
+					"Interviews": null
+				}
+			]
+		},
+		{
+			"ID": 5,
+			"Name": "Green Planet",
+			"Industry": "Environmental Services",
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Users": [
+				{
+					"Id": 1,
+					"Name": "John",
+					"Surname": "Doe",
+					"Age": 30,
+					"Phone": "123-456-7890",
+					"Email": "john.doe@example.com",
+					"Status": 1,
+					"Experince": 5,
+					"Applications": [
+						[
+							1,
+							1
+						]
+					],
+					"Interviews": null
+				},
+				{
+					"Id": 2,
+					"Name": "Alice",
+					"Surname": "Johnson",
+					"Age": 28,
+					"Phone": "987-654-3210",
+					"Email": "alice.j@example.com",
+					"Status": 1,
+					"Experince": 4,
+					"Applications": [
+						[
+							2,
+							2
+						]
+					],
+					"Interviews": null
+				},
+				{
+					"Id": 3,
+					"Name": "Bob",
+					"Surname": "Smith",
+					"Age": 35,
+					"Phone": "321-654-9870",
+					"Email": "bob.smith@example.com",
+					"Status": 1,
+					"Experince": 10,
+					"Applications": [
+						[
+							2,
+							3
+						]
+					],
+					"Interviews": null
+				}
+			]
+		},
+		{
+			"ID": 6,
+			"Name": "Health First",
+			"Industry": "Healthcare",
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Users": [
+				{
+					"Id": 1,
+					"Name": "John",
+					"Surname": "Doe",
+					"Age": 30,
+					"Phone": "123-456-7890",
+					"Email": "john.doe@example.com",
+					"Status": 1,
+					"Experince": 5,
+					"Applications": [
+						[
+							1,
+							1
+						]
+					],
+					"Interviews": null
+				},
+				{
+					"Id": 2,
+					"Name": "Alice",
+					"Surname": "Johnson",
+					"Age": 28,
+					"Phone": "987-654-3210",
+					"Email": "alice.j@example.com",
+					"Status": 1,
+					"Experince": 4,
+					"Applications": [
+						[
+							2,
+							2
+						]
+					],
+					"Interviews": null
+				},
+				{
+					"Id": 3,
+					"Name": "Bob",
+					"Surname": "Smith",
+					"Age": 35,
+					"Phone": "321-654-9870",
+					"Email": "bob.smith@example.com",
+					"Status": 1,
+					"Experince": 10,
+					"Applications": [
+						[
+							2,
+							3
+						]
+					],
+					"Interviews": null
+				}
+			]
+		},
+		{
+			"ID": 7,
+			"Name": "Global Trade Inc.",
+			"Industry": "E-commerce",
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Users": [
+				{
+					"Id": 1,
+					"Name": "John",
+					"Surname": "Doe",
+					"Age": 30,
+					"Phone": "123-456-7890",
+					"Email": "john.doe@example.com",
+					"Status": 1,
+					"Experince": 5,
+					"Applications": [
+						[
+							1,
+							1
+						]
+					],
+					"Interviews": null
+				},
+				{
+					"Id": 2,
+					"Name": "Alice",
+					"Surname": "Johnson",
+					"Age": 28,
+					"Phone": "987-654-3210",
+					"Email": "alice.j@example.com",
+					"Status": 1,
+					"Experince": 4,
+					"Applications": [
+						[
+							2,
+							2
+						]
+					],
+					"Interviews": null
+				},
+				{
+					"Id": 3,
+					"Name": "Bob",
+					"Surname": "Smith",
+					"Age": 35,
+					"Phone": "321-654-9870",
+					"Email": "bob.smith@example.com",
+					"Status": 1,
+					"Experince": 10,
+					"Applications": [
+						[
+							2,
+							3
+						]
+					],
+					"Interviews": null
+				}
+			]
+		},
+		{
+			"ID": 8,
+			"Name": "EduSmart",
+			"Industry": "Education",
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Users": [
+				{
+					"Id": 1,
+					"Name": "John",
+					"Surname": "Doe",
+					"Age": 30,
+					"Phone": "123-456-7890",
+					"Email": "john.doe@example.com",
+					"Status": 1,
+					"Experince": 5,
+					"Applications": [
+						[
+							1,
+							1
+						]
+					],
+					"Interviews": null
+				},
+				{
+					"Id": 2,
+					"Name": "Alice",
+					"Surname": "Johnson",
+					"Age": 28,
+					"Phone": "987-654-3210",
+					"Email": "alice.j@example.com",
+					"Status": 1,
+					"Experince": 4,
+					"Applications": [
+						[
+							2,
+							2
+						]
+					],
+					"Interviews": null
+				},
+				{
+					"Id": 3,
+					"Name": "Bob",
+					"Surname": "Smith",
+					"Age": 35,
+					"Phone": "321-654-9870",
+					"Email": "bob.smith@example.com",
+					"Status": 1,
+					"Experince": 10,
+					"Applications": [
+						[
+							2,
+							3
+						]
+					],
+					"Interviews": null
+				}
+			]
+		},
+		{
+			"ID": 9,
+			"Name": "AutoDrive",
+			"Industry": "Automotive",
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Users": [
+				{
+					"Id": 4,
+					"Name": "Carol",
+					"Surname": "Taylor",
+					"Age": 25,
+					"Phone": "456-123-7890",
+					"Email": "carol.taylor@example.com",
+					"Status": 1,
+					"Experince": 3,
+					"Applications": [
+						[
+							4,
+							4
+						]
+					],
+					"Interviews": null
+				},
+				{
+					"Id": 5,
+					"Name": "David",
+					"Surname": "Brown",
+					"Age": 40,
+					"Phone": "654-321-1234",
+					"Email": "david.brown@example.com",
+					"Status": 2,
+					"Experince": 15,
+					"Applications": [
+						[
+							5,
+							5
+						]
+					],
+					"Interviews": null
+				},
+				{
+					"Id": 6,
+					"Name": "Eve",
+					"Surname": "Wilson",
+					"Age": 22,
+					"Phone": "321-789-4560",
+					"Email": "eve.wilson@example.com",
+					"Status": 1,
+					"Experince": 2,
+					"Applications": [
+						[
+							6,
+							6
+						]
+					],
+					"Interviews": null
+				}
+			]
+		},
+		{
+			"ID": 10,
+			"Name": "Oceanic Exploration",
+			"Industry": "Research",
+			"Address": {
+				"Street": "Kulas Light",
+				"Suite": "Apt. 556",
+				"City": "Gwenborough",
+				"Zipcode": "92998-3874",
+				"Geo": {
+					"Lat": "-37.3159",
+					"Lng": "81.1496"
+				}
+			},
+			"Users": [
+				{
+					"Id": 5,
+					"Name": "David",
+					"Surname": "Brown",
+					"Age": 40,
+					"Phone": "654-321-1234",
+					"Email": "david.brown@example.com",
+					"Status": 2,
+					"Experince": 15,
+					"Applications": [
+						[
+							5,
+							5
+						]
+					],
+					"Interviews": null
+				},
+				{
+					"Id": 6,
+					"Name": "Eve",
+					"Surname": "Wilson",
+					"Age": 22,
+					"Phone": "321-789-4560",
+					"Email": "eve.wilson@example.com",
+					"Status": 1,
+					"Experince": 2,
+					"Applications": [
+						[
+							6,
+							6
+						]
+					],
+					"Interviews": null
+				},
+				{
+					"Id": 7,
+					"Name": "Frank",
+					"Surname": "Moore",
+					"Age": 32,
+					"Phone": "789-012-3456",
+					"Email": "frank.moore@example.com",
+					"Status": 1,
+					"Experince": 7,
+					"Applications": [
+						[
+							7,
+							7
+						]
+					],
+					"Interviews": null
+				}
+			]
+		}
+	]
+}

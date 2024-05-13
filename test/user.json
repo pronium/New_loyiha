@@ -1,0 +1,562 @@
+{
+	"Users": [
+		{
+			"Id": 1,
+			"Name": "John",
+			"Surname": "Doe",
+			"Age": 30,
+			"Phone": "123-456-7890",
+			"Email": "john.doe@example.com",
+			"Status": 1,
+			"Experince": 5,
+			"Applications": [
+				[
+					1,
+					1
+				]
+			],
+			"Interviews": [
+				{
+					"ID": 1,
+					"CompanyID": 3,
+					"VacancyID": 103,
+					"UserID": 1,
+					"InterviewType": true,
+					"Address": {
+						"Street": "Exemplar St",
+						"Suite": "Apt. 999",
+						"City": "Sampletown",
+						"Zipcode": "12345-6789",
+						"Geo": {
+							"Lat": "12.3456",
+							"Lng": "78.9012"
+						}
+					},
+					"Platform": "Microsoft Teams",
+					"Date": "2024-07-01",
+					"Time": "9:00 AM",
+					"Status": 1
+				}
+			]
+		},
+		{
+			"Id": 2,
+			"Name": "Alice",
+			"Surname": "Johnson",
+			"Age": 28,
+			"Phone": "987-654-3210",
+			"Email": "alice.j@example.com",
+			"Status": 1,
+			"Experince": 4,
+			"Applications": [
+				[
+					2,
+					2
+				]
+			],
+			"Interviews": [
+				{
+					"ID": 2,
+					"CompanyID": 1,
+					"VacancyID": 101,
+					"UserID": 1,
+					"InterviewType": true,
+					"Address": {
+						"Street": "Kulas Light",
+						"Suite": "Apt. 556",
+						"City": "Gwenborough",
+						"Zipcode": "92998-3874",
+						"Geo": {
+							"Lat": "-37.3159",
+							"Lng": "81.1496"
+						}
+					},
+					"Platform": "Zoom",
+					"Date": "2024-06-15",
+					"Time": "10:00 AM",
+					"Status": 1
+				},
+				{
+					"ID": 2,
+					"CompanyID": 2,
+					"VacancyID": 102,
+					"UserID": 2,
+					"InterviewType": false,
+					"Address": {
+						"Street": "Kulas Light",
+						"Suite": "Apt. 556",
+						"City": "Gwenborough",
+						"Zipcode": "92998-3874",
+						"Geo": {
+							"Lat": "-37.3159",
+							"Lng": "81.1496"
+						}
+					},
+					"Platform": "",
+					"Date": "2024-06-20",
+					"Time": "1:00 PM",
+					"Status": 2
+				}
+			]
+		},
+		{
+			"Id": 3,
+			"Name": "Bob",
+			"Surname": "Smith",
+			"Age": 35,
+			"Phone": "321-654-9870",
+			"Email": "bob.smith@example.com",
+			"Status": 1,
+			"Experince": 10,
+			"Applications": [
+				[
+					2,
+					3
+				]
+			],
+			"Interviews": [
+				{
+					"ID": 3,
+					"CompanyID": 1,
+					"VacancyID": 101,
+					"UserID": 1,
+					"InterviewType": true,
+					"Address": {
+						"Street": "Kulas Light",
+						"Suite": "Apt. 556",
+						"City": "Gwenborough",
+						"Zipcode": "92998-3874",
+						"Geo": {
+							"Lat": "-37.3159",
+							"Lng": "81.1496"
+						}
+					},
+					"Platform": "Zoom",
+					"Date": "2024-06-15",
+					"Time": "10:00 AM",
+					"Status": 1
+				}
+			]
+		},
+		{
+			"Id": 4,
+			"Name": "Carol",
+			"Surname": "Taylor",
+			"Age": 25,
+			"Phone": "456-123-7890",
+			"Email": "carol.taylor@example.com",
+			"Status": 1,
+			"Experince": 3,
+			"Applications": [
+				[
+					4,
+					4
+				]
+			],
+			"Interviews": [
+				{
+					"ID": 4,
+					"CompanyID": 2,
+					"VacancyID": 102,
+					"UserID": 2,
+					"InterviewType": false,
+					"Address": {
+						"Street": "Kulas Light",
+						"Suite": "Apt. 556",
+						"City": "Gwenborough",
+						"Zipcode": "92998-3874",
+						"Geo": {
+							"Lat": "-37.3159",
+							"Lng": "81.1496"
+						}
+					},
+					"Platform": "",
+					"Date": "2024-06-20",
+					"Time": "1:00 PM",
+					"Status": 2
+				}
+			]
+		},
+		{
+			"Id": 5,
+			"Name": "David",
+			"Surname": "Brown",
+			"Age": 40,
+			"Phone": "654-321-1234",
+			"Email": "david.brown@example.com",
+			"Status": 2,
+			"Experince": 15,
+			"Applications": [
+				[
+					5,
+					5
+				]
+			],
+			"Interviews": [
+				{
+					"ID": 5,
+					"CompanyID": 1,
+					"VacancyID": 101,
+					"UserID": 1,
+					"InterviewType": true,
+					"Address": {
+						"Street": "Kulas Light",
+						"Suite": "Apt. 556",
+						"City": "Gwenborough",
+						"Zipcode": "92998-3874",
+						"Geo": {
+							"Lat": "-37.3159",
+							"Lng": "81.1496"
+						}
+					},
+					"Platform": "Zoom",
+					"Date": "2024-06-15",
+					"Time": "10:00 AM",
+					"Status": 1
+				},
+				{
+					"ID": 6,
+					"CompanyID": 2,
+					"VacancyID": 102,
+					"UserID": 2,
+					"InterviewType": false,
+					"Address": {
+						"Street": "Kulas Light",
+						"Suite": "Apt. 556",
+						"City": "Gwenborough",
+						"Zipcode": "92998-3874",
+						"Geo": {
+							"Lat": "-37.3159",
+							"Lng": "81.1496"
+						}
+					},
+					"Platform": "",
+					"Date": "2024-06-20",
+					"Time": "1:00 PM",
+					"Status": 2
+				},
+				{
+					"ID": 11,
+					"CompanyID": 2,
+					"VacancyID": 5,
+					"UserID": 5,
+					"InterviewType": true,
+					"Address": {
+						"Street": "",
+						"Suite": "",
+						"City": "",
+						"Zipcode": "",
+						"Geo": {
+							"Lat": "",
+							"Lng": ""
+						}
+					},
+					"Platform": "qwerty.com",
+					"Date": "12.34.3000",
+					"Time": "12:23",
+					"Status": 2
+				}
+			]
+		},
+		{
+			"Id": 6,
+			"Name": "Eve",
+			"Surname": "Wilson",
+			"Age": 22,
+			"Phone": "321-789-4560",
+			"Email": "eve.wilson@example.com",
+			"Status": 1,
+			"Experince": 2,
+			"Applications": [
+				[
+					6,
+					6
+				]
+			],
+			"Interviews": [
+				{
+					"ID": 7,
+					"CompanyID": 3,
+					"VacancyID": 103,
+					"UserID": 1,
+					"InterviewType": true,
+					"Address": {
+						"Street": "Exemplar St",
+						"Suite": "Apt. 999",
+						"City": "Sampletown",
+						"Zipcode": "12345-6789",
+						"Geo": {
+							"Lat": "12.3456",
+							"Lng": "78.9012"
+						}
+					},
+					"Platform": "Microsoft Teams",
+					"Date": "2024-07-01",
+					"Time": "9:00 AM",
+					"Status": 1
+				},
+				{
+					"ID": 8,
+					"CompanyID": 4,
+					"VacancyID": 104,
+					"UserID": 1,
+					"InterviewType": true,
+					"Address": {
+						"Street": "Innovation Blvd",
+						"Suite": "Suite 1001",
+						"City": "Techville",
+						"Zipcode": "98765-4321",
+						"Geo": {
+							"Lat": "23.4567",
+							"Lng": "12.3456"
+						}
+					},
+					"Platform": "Google Meet",
+					"Date": "2024-07-15",
+					"Time": "2:00 PM",
+					"Status": 1
+				}
+			]
+		},
+		{
+			"Id": 8,
+			"Name": "Frank",
+			"Surname": "Moore",
+			"Age": 32,
+			"Phone": "789-012-3456",
+			"Email": "frank.moore@example.com",
+			"Status": 1,
+			"Experince": 7,
+			"Applications": [
+				[
+					7,
+					7
+				]
+			],
+			"Interviews": [
+				{
+					"ID": 9,
+					"CompanyID": 1,
+					"VacancyID": 101,
+					"UserID": 1,
+					"InterviewType": true,
+					"Address": {
+						"Street": "Kulas Light",
+						"Suite": "Apt. 556",
+						"City": "Gwenborough",
+						"Zipcode": "92998-3874",
+						"Geo": {
+							"Lat": "-37.3159",
+							"Lng": "81.1496"
+						}
+					},
+					"Platform": "Zoom",
+					"Date": "2024-06-15",
+					"Time": "10:00 AM",
+					"Status": 1
+				},
+				{
+					"ID": 10,
+					"CompanyID": 2,
+					"VacancyID": 102,
+					"UserID": 2,
+					"InterviewType": false,
+					"Address": {
+						"Street": "Kulas Light",
+						"Suite": "Apt. 556",
+						"City": "Gwenborough",
+						"Zipcode": "92998-3874",
+						"Geo": {
+							"Lat": "-37.3159",
+							"Lng": "81.1496"
+						}
+					},
+					"Platform": "",
+					"Date": "2024-06-20",
+					"Time": "1:00 PM",
+					"Status": 2
+				}
+			]
+		},
+		{
+			"Id": 9,
+			"Name": "Grace",
+			"Surname": "Lee",
+			"Age": 29,
+			"Phone": "456-789-0123",
+			"Email": "grace.lee@example.com",
+			"Status": 1,
+			"Experince": 6,
+			"Applications": [
+				[
+					8,
+					8
+				]
+			],
+			"Interviews": [
+				{
+					"ID": 11,
+					"CompanyID": 4,
+					"VacancyID": 104,
+					"UserID": 0,
+					"InterviewType": true,
+					"Address": {
+						"Street": "Innovation Blvd",
+						"Suite": "Suite 1001",
+						"City": "Techville",
+						"Zipcode": "98765-4321",
+						"Geo": {
+							"Lat": "23.4567",
+							"Lng": "12.3456"
+						}
+					},
+					"Platform": "Google Meet",
+					"Date": "2024-07-15",
+					"Time": "2:00 PM",
+					"Status": 1
+				},
+				{
+					"ID": 12,
+					"CompanyID": 5,
+					"VacancyID": 105,
+					"UserID": 0,
+					"InterviewType": false,
+					"Address": {
+						"Street": "Enterprise Road",
+						"Suite": "No Suite",
+						"City": "Enterprisetown",
+						"Zipcode": "54321-1234",
+						"Geo": {
+							"Lat": "45.6789",
+							"Lng": "98.7654"
+						}
+					},
+					"Platform": "",
+					"Date": "2024-07-20",
+					"Time": "11:00 AM",
+					"Status": 2
+				},
+				{
+					"ID": 13,
+					"CompanyID": 6,
+					"VacancyID": 106,
+					"UserID": 0,
+					"InterviewType": true,
+					"Address": {
+						"Street": "Future Ave",
+						"Suite": "Apt. 2021",
+						"City": "New City",
+						"Zipcode": "23456-7890",
+						"Geo": {
+							"Lat": "34.5678",
+							"Lng": "89.0123"
+						}
+					},
+					"Platform": "Skype",
+					"Date": "2024-07-25",
+					"Time": "3:00 PM",
+					"Status": 3
+				}
+			]
+		},
+		{
+			"Id": 10,
+			"Name": "Henry",
+			"Surname": "Davis",
+			"Age": 45,
+			"Phone": "123-456-0987",
+			"Email": "henry.davis@example.com",
+			"Status": 1,
+			"Experince": 20,
+			"Applications": [
+				[
+					9,
+					9
+				]
+			],
+			"Interviews": [
+				{
+					"ID": 11,
+					"CompanyID": 3,
+					"VacancyID": 103,
+					"UserID": 1,
+					"InterviewType": true,
+					"Address": {
+						"Street": "Exemplar St",
+						"Suite": "Apt. 999",
+						"City": "Sampletown",
+						"Zipcode": "12345-6789",
+						"Geo": {
+							"Lat": "12.3456",
+							"Lng": "78.9012"
+						}
+					},
+					"Platform": "Microsoft Teams",
+					"Date": "2024-07-01",
+					"Time": "9:00 AM",
+					"Status": 1
+				}
+			]
+		},
+		{
+			"Id": 11,
+			"Name": "Akbar",
+			"Surname": "Garcia",
+			"Age": 19,
+			"Phone": "654-789-3210",
+			"Email": "isabel.garcia@example.com",
+			"Status": 1,
+			"Experince": 14,
+			"Applications": [
+				[
+					10,
+					10
+				]
+			],
+			"Interviews": [
+				{
+					"ID": 14,
+					"CompanyID": 1,
+					"VacancyID": 101,
+					"UserID": 1,
+					"InterviewType": true,
+					"Address": {
+						"Street": "Kulas Light",
+						"Suite": "Apt. 556",
+						"City": "Gwenborough",
+						"Zipcode": "92998-3874",
+						"Geo": {
+							"Lat": "-37.3159",
+							"Lng": "81.1496"
+						}
+					},
+					"Platform": "Zoom",
+					"Date": "2024-06-15",
+					"Time": "10:00 AM",
+					"Status": 1
+				},
+				{
+					"ID": 15,
+					"CompanyID": 2,
+					"VacancyID": 102,
+					"UserID": 2,
+					"InterviewType": false,
+					"Address": {
+						"Street": "Kulas Light",
+						"Suite": "Apt. 556",
+						"City": "Gwenborough",
+						"Zipcode": "92998-3874",
+						"Geo": {
+							"Lat": "-37.3159",
+							"Lng": "81.1496"
+						}
+					},
+					"Platform": "",
+					"Date": "2024-06-20",
+					"Time": "1:00 PM",
+					"Status": 2
+				}
+			]
+		}
+	]
+}
